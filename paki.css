@@ -1,0 +1,52 @@
+* {
+    background-color: #116688;
+    color: #EEEE22;
+    font-family: 'Lora', serif;
+}
+
+hr {
+    width: 370px;
+    background-color: #EEEE22;
+}
+
+a {
+    color: #EEEE22;
+}
+
+address {
+    float: right;
+    text-align: right;
+}
+
+.principal {
+   display: flex;
+   width: 100%;
+   justify-content: space-between;
+}
+
+.logo {
+    margin-right: 600px;
+}
+
+ul {
+    margin-top: 50px;
+}
+
+li {
+    margin-top: 15px;
+}
+
+.principal {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.anuncio span {
+    color: red;
+}
+
+.anuncio {
+    margin-right: 100px;
+    display: flex;
+    background-color: white;
+    width: 340px;
+}
